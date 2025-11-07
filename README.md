@@ -1,2 +1,2 @@
 # Classification-and-Machine-Learning
-Iris Flower Classification Using Machine Learning Technique
+Iris Flower Classification Using Machine Learning Techniques
